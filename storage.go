@@ -1,4 +1,4 @@
-package example
+package webdav
 
 import (
 	"context"

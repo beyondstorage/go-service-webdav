@@ -1,4 +1,4 @@
-package example
+package webdav
 
 import (
 	"github.com/aos-dev/go-storage/v3/types"
