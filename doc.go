@@ -1,5 +1,5 @@
 /*
-Package example provided support for local file system.
+Package webdav provided support for local file system.
 */
 package webdav
 

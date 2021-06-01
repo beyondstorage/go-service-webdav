@@ -1,4 +1,4 @@
-module github.com/aos-dev/go-service-example
+module github.com/beyondstorage/go-service-webdav
 
 go 1.15
 
